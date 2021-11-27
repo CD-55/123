@@ -1,0 +1,147 @@
+
+
+body{
+	text-align:center;
+	background-image:url(../images/background/6.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:scroll;
+}
+*{
+	padding:0px;
+	margn:0px;
+}
+#container{
+	width:960px;
+	margin:0 auto;
+}
+#top{
+
+}
+#navi1 {
+	font-size:24px;
+	text-align:center;
+}
+#navi1 ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+}
+#navi1 li {
+	float:left;
+}
+#navi1 li a{
+	font-family:LiSu;                             
+	display:block;
+	padding:10px 30px 10px 1.665em;
+	text-decoration:none;  
+	color:black;
+	border:1px solid write;
+	width:120px;
+	text-align:left;
+	margin:1px;
+}
+#navi1 li a:link, #navigation li a:visited{  
+	background-color:rgb(225,219,203); 
+}
+#navi1 li a:hover{				
+	background-color:rgb(199,188,158);
+}
+#left{
+	float:left;
+	width:160px;
+	margin-top:50px;
+
+}
+
+#navi2{
+	text-align:center;
+	width:150px;
+}
+#navi2 ul{
+	list-style-type:none;
+	font-size:25px;
+
+}
+#navi2 li{
+	border-bottom:1px solid #ed9fcc;
+}
+#navi2 li a{
+		font-family:LiSu,KaiTi,SimSun;
+		display:block;
+		padding:5px 5px 5px 1em;
+		text-decoration:none;
+		color:black;
+		width:120;
+		text-align:center;
+		padding:1px;
+}
+#navi2 li a:link,#navi1 li a:visited{
+		background-color:rgb(225,219,203);
+}
+#navi2 li a:hover{
+		background-color:rgb(199,188,158);
+}
+#leftfoot
+{
+	width:150px;
+	margn:20px;
+	padding-top:100px;
+}
+#leftfoot ul{
+	list-style-type:none;
+	font-size:25px;
+
+}
+#leftfoot li{
+	border-bottom:1px solid #ed9fcc;
+}
+#leftfoot li a{
+		font-family:LiSu,KaiTi,SimSun;
+		display:block;
+		padding:5px 5px 5px 1em;
+		text-decoration:none;
+		color:black;
+		width:120;
+		text-align:center;
+		padding:1px;
+}
+#leftfoot li a:link,#navi1 li a:visited{
+		background-color:rgb(225,219,203);
+}
+#leftfoot li a:hover{
+		background-color:rgb(199,188,158);
+}
+
+
+#counter{
+	float:right;
+	width:790px;
+	margin-top:10px;
+}
+h1{
+	text-align:left;
+	font-family:¡• È;
+	font-size:35px;
+}
+h2{
+	text-align:left;
+	font-family:¡• È;
+}
+h3{
+	text-align:left;
+	font-family:¡• È;
+}
+p{
+	text-align:left;
+	padding:5px;
+	text-indent:2em;
+}
+#foot{
+	text-align:left;
+
+}
+
+
+
